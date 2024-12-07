@@ -1,6 +1,8 @@
 package com.example.practica1;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -21,5 +23,8 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
-
-}
+        public void onClick(View view) {
+            Intent intent = new Intent(MainActivity.this, MainActivity2.class);
+            startActivity(intent);
+        }
+    }
