@@ -1,4 +1,4 @@
-<h1>Práctica en clase: Diseño responsivo de interfaces de usuario en Android (Login de Usuario y Registro de Clientes)</h1>
+<h1>Práctica en clase: Diseño responsivo de interfaces de usuario en Android </h1>
 
 <p align="center">
     <!-- Primera imagen al 50% -->
